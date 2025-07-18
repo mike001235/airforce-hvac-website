@@ -1,9 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>https://airforcehvaccorp.com/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <loc>https://www.airforcehvaccorp.com/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.airforcehvaccorp.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.airforcehvaccorp.com/"/>
+    <lastmod>2025-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <url>
+    <loc>https://www.airforcehvaccorp.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.airforcehvaccorp.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.airforcehvaccorp.com/hvac-contractor-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/hvac-contractor-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://www.airforcehvaccorp.com/los-angeles-hvac-services/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/los-angeles-hvac-services/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.airforcehvaccorp.com/emergency-hvac-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/emergency-hvac-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.airforcehvaccorp.com/commercial-hvac-contractor-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/commercial-hvac-contractor-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.airforcehvaccorp.com/residential-hvac-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/residential-hvac-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.airforcehvaccorp.com/hvac-repair-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/hvac-repair-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.airforcehvaccorp.com/air-conditioning-contractor-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/air-conditioning-contractor-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.airforcehvaccorp.com/heating-contractor-los-angeles/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/heating-contractor-los-angeles/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.airforcehvaccorp.com/hvac-installation-los-angeles/</loc>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.airforcehvaccorp.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/about/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url> 
+  <url>
+    <loc>https://www.airforcehvaccorp.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/contact/"/>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.airforcehvaccorp.com/blog/</loc>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
 </urlset>
