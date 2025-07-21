@@ -5,16 +5,63 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- DNS预解析 -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com">
+
+    <!-- 预加载关键资源 -->
+    <link rel="preload" href="/index-Cp8-XpTF.css" as="style">
+    <link rel="preload" href="/index-B_jTSQWy.js" as="script">
+    <link rel="preload" href="/airforce_hvac_logo-80tXxmDw.png" as="image">
+
+    <!-- 关键CSS内联（提取首屏必需的CSS） -->
+    <style>
+        /* 关键CSS - 首屏渲染必需的样式 */
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        #root {
+            min-height: 100vh;
+        }
+        .loading-spinner {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50px;
+            height: 50px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #1e3a8a;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            z-index: 9999;
+        }
+        
+        @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+        .loaded .loading-spinner {
+            display: none;
+        }
+    </style>
+
     <title>Air Force HVAC Corp - Los Angeles HVAC Contractor | 24/7 Emergency Service</title>
     <meta name="description" content="Air Force HVAC Corp - Premier Los Angeles HVAC contractor providing 24/7 emergency repair, commercial & residential air conditioning and heating services. Military-trained technicians. Call (323) 629-5799">
     <meta name="keywords" content="HVAC contractor Los Angeles, emergency HVAC Los Angeles, commercial HVAC Los Angeles, air conditioning repair Los Angeles, heating contractor Los Angeles, HVAC installation Los Angeles">
 
+    <!-- 语言和规范化链接 -->
     <link rel="alternate" hreflang="en" href="https://www.airforcehvaccorp.com/">
     <link rel="alternate" hreflang="zh" href="https://www.airforcehvaccorp.com/zh/">
     <link rel="alternate" hreflang="x-default" href="https://www.airforcehvaccorp.com/">
-
     <link rel="canonical" href="https://www.airforcehvaccorp.com/">
     
+    <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Air Force HVAC Corp - Los Angeles HVAC Contractor">
     <meta property="og:description" content="24/7 emergency HVAC repair, commercial & residential services. Military-trained technicians serving Los Angeles. Call (323) 629-5799">
     <meta property="og:image" content="https://www.airforcehvaccorp.com/images/airforce-hvac-og-image.jpg">
@@ -24,10 +71,18 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:locale:alternate" content="zh_CN">
     
+    <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Air Force HVAC Corp - Los Angeles HVAC Contractor">
     <meta name="twitter:description" content="24/7 emergency HVAC repair, commercial & residential services. Military-trained technicians.">
     <meta name="twitter:image" content="https://www.airforcehvaccorp.com/images/airforce-hvac-twitter-card.jpg">
+    
+    <!-- 异步加载非关键CSS -->
+    <link rel="stylesheet" href="/index-Cp8-XpTF.css" media="print" onload="this.media='all'; this.onload=null;">
+    <noscript><link rel="stylesheet" href="/index-Cp8-XpTF.css"></noscript>
+    
+    <!-- 延迟加载JavaScript -->
+    <script type="module" defer src="/index-B_jTSQWy.js"></script>
     <script type="module" crossorigin src="/index-B_jTSQWy.js"></script>
     <link rel="stylesheet" crossorigin href="/index-Cp8-XpTF.css">
    <script type="application/ld+json">
