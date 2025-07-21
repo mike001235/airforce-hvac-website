@@ -9,8 +9,8 @@ Crawl-delay: 1
 
 # Directories to disallow from crawling (if needed)
 # Disallow: /admin/
-# Disallow: /wp-admin/
 # Disallow: /private/
+# Disallow: /temp/
 
 # Allow important directories
 # Allow: /css/
